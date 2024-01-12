@@ -1,3 +1,3 @@
 #
-Project to study
+Project to study for kubernetes
 
